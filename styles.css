@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Inspiration&family=Pacifico&family=Sarabun:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+/* Main tags */
+body {
+	background-color: #222831;
+	margin: 0;
+}
+h1 {
+	color: #EEEEEE;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+h2 {
+	color: white;
+	margin: 0;
+}
+
+.Header-Section {
+	margin: 0; 
+	min-height: auto;
+	width: 100%;
+	background-color: #393E46;
+}
+
+.Header-Section-Container {
+	margin: 0 auto;
+	display: flex;
+	font-family: 'Sarabun', sans-serif;
+	padding: 15px;
+	Font-size: 20px;
+	Color: #EEEEEE;
+	text-align: center;
+}
+
+.Header-Section-Container p{
+	margin: 0 auto;
+}
+
+.wrapper {
+	width: 1280px;
+	margin: auto;
+}
+
+.title-wrapper {
+	width: 100%;
+	text-align: center;
+}
+
+.nav-wrapper {
+	width: 100%;
+	padding: 10px;
+	background-color: black;
+}
+
+.card {
+	width: 300px;
+	height: 300px;
+	background-color: darkred;
+	display: inline-block;
+	margin: 0 auto;
+	border-radius: 5px;
+	padding: 5px;
+}
+
+.card h2{
+	text-align: center;
+	padding: 10px;
+	
+}
